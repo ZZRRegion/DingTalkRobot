@@ -37,3 +37,16 @@ D:\我的坚果云\DingTalkRobot\DingTalkRobot\obj\Debug\DingTalkRobot.csproj.Co
 D:\我的坚果云\DingTalkRobot\DingTalkRobot\obj\Debug\DingTalkRobot.csproj.CopyComplete
 D:\我的坚果云\DingTalkRobot\DingTalkRobot\obj\Debug\DingTalkRobot.exe
 D:\我的坚果云\DingTalkRobot\DingTalkRobot\obj\Debug\DingTalkRobot.pdb
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\bin\Debug\DingTalkRobot.exe.config
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\bin\Debug\DingTalkRobot.exe
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\bin\Debug\DingTalkRobot.pdb
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\bin\Debug\Newtonsoft.Json.dll
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\bin\Debug\Newtonsoft.Json.xml
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.csprojAssemblyReference.cache
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.FrmMain.resources
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.Properties.Resources.resources
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.csproj.GenerateResource.cache
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.csproj.CoreCompileInputs.cache
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.csproj.CopyComplete
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.exe
+D:\我的坚果云\DingTalkRobots\DingTalkRobot\obj\Debug\DingTalkRobot.pdb

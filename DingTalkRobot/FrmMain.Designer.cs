@@ -38,7 +38,7 @@
             // 
             // txtUrl
             // 
-            this.txtUrl.Location = new System.Drawing.Point(92, 15);
+            this.txtUrl.Location = new System.Drawing.Point(126, 11);
             this.txtUrl.Name = "txtUrl";
             this.txtUrl.Size = new System.Drawing.Size(727, 21);
             this.txtUrl.TabIndex = 0;
@@ -47,9 +47,9 @@
             // 
             // rtbContent
             // 
-            this.rtbContent.Location = new System.Drawing.Point(12, 92);
+            this.rtbContent.Location = new System.Drawing.Point(10, 92);
             this.rtbContent.Name = "rtbContent";
-            this.rtbContent.Size = new System.Drawing.Size(807, 190);
+            this.rtbContent.Size = new System.Drawing.Size(843, 190);
             this.rtbContent.TabIndex = 1;
             this.rtbContent.Text = "";
             // 
@@ -58,7 +58,7 @@
             this.btnPost.Font = new System.Drawing.Font("宋体", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnPost.Location = new System.Drawing.Point(12, 288);
             this.btnPost.Name = "btnPost";
-            this.btnPost.Size = new System.Drawing.Size(807, 43);
+            this.btnPost.Size = new System.Drawing.Size(841, 43);
             this.btnPost.TabIndex = 2;
             this.btnPost.Text = "推送";
             this.btnPost.UseVisualStyleBackColor = true;
@@ -69,16 +69,16 @@
             this.lblURL.AutoSize = true;
             this.lblURL.Location = new System.Drawing.Point(10, 15);
             this.lblURL.Name = "lblURL";
-            this.lblURL.Size = new System.Drawing.Size(59, 12);
+            this.lblURL.Size = new System.Drawing.Size(107, 12);
             this.lblURL.TabIndex = 3;
-            this.lblURL.Text = "推送地址:";
+            this.lblURL.Text = "自定义机器人地址:";
             // 
             // cboType
             // 
             this.cboType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboType.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.cboType.FormattingEnabled = true;
-            this.cboType.Location = new System.Drawing.Point(12, 57);
+            this.cboType.Location = new System.Drawing.Point(10, 57);
             this.cboType.Name = "cboType";
             this.cboType.Size = new System.Drawing.Size(262, 24);
             this.cboType.TabIndex = 4;
@@ -87,7 +87,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(831, 335);
+            this.ClientSize = new System.Drawing.Size(862, 335);
             this.Controls.Add(this.cboType);
             this.Controls.Add(this.lblURL);
             this.Controls.Add(this.btnPost);

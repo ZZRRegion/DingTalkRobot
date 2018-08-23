@@ -31,7 +31,6 @@ namespace DingTalkRobot
                 case "文本格式":
                     DingMsgText msgText = new DingMsgText();
                     msgText.text.content = this.rtbContent.Text;
-                    msgText.at.atMobiles.Add("18959296933");
                     content = JsonConvert.SerializeObject(msgText);
                     break;
                 case "Link类型":
